@@ -13,3 +13,5 @@ Same for each endpoint you would like to try!
 /actuator/health
 /actuator/shutdown with -X POST isn't supported
 ```
+
+[Tutorial here](https://spring.io/guides/gs/spring-boot/#scratch)
