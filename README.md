@@ -14,4 +14,5 @@ Same for each endpoint you would like to try!
 /actuator/shutdown with -X POST isn't supported
 ```
 
-[Tutorial here](https://spring.io/guides/gs/spring-boot/#scratch)
+[Tutorial 1](https://spring.io/guides/gs/spring-boot/#scratch)   
+[Tutorial 2](https://blog.devgenius.io/spring-boot-with-postgresql-and-hibernate-26dc00de27e)
