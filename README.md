@@ -15,3 +15,5 @@ Same for each endpoint you would like to try!
 ```
 
 [Tutorial here](https://spring.io/guides/gs/spring-boot/#scratch)
+
+[Tutorial 3](https://spring.io/guides/gs/securing-web/)
