@@ -1,0 +1,6 @@
+management.endpoint.shutdown.enabled=true
+
+spring.datasource.url=jdbc:postgresql://localhost:5432/blog
+spring.datasource.username=postgres
+spring.datasource.password=pgpasswd
+spring.jpa.hibernate.ddl-auto=update
