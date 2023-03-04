@@ -6,4 +6,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface BlogPostRepository extends JpaRepository<BlogPost, Long> {
+    // FIXME ID is preserved after deleted entity
 }
