@@ -1,4 +1,4 @@
-package com.example.spring.boot.tutorial;
+package com.example.spring.boot.tutorial.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
